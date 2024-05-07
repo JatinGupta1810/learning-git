@@ -10,4 +10,8 @@ private int number;
 	public Test(int number){
 		this.number = number
 	}
+	
+	public static void main(String[] args){
+		
+	}
 }
