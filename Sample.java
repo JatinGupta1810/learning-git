@@ -4,7 +4,9 @@ private int age;
 private String name;
 
 	public static void main(String[] args){
-		sample()
+		sample();
+		sample();
+		System.out.println(age);
 		System.out.println("HELL WORLD");
 	}
 	
