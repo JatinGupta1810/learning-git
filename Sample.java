@@ -12,5 +12,6 @@ private String name;
 	
 	public static void sample(){
 		System.out.println("SAMPLE");
+		System.out.println("SAMPLE");
 	}
 }
