@@ -8,6 +8,8 @@ private String name;
 		sample();
 		System.out.println(age);
 		System.out.println("HELL WORLD");
+		System.out.println("Jatin");
+		System.out.println("TCS");
 	}
 	
 	public static void sample(){
